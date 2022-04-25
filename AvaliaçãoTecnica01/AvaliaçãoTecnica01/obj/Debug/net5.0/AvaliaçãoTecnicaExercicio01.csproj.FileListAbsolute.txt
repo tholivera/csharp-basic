@@ -1,0 +1,16 @@
+D:\Cast group\Exercícios\csharp-basic\AvaliaçãoTecnica01\AvaliaçãoTecnica01\bin\Debug\net5.0\AvaliaçãoTecnicaExercicio01.exe
+D:\Cast group\Exercícios\csharp-basic\AvaliaçãoTecnica01\AvaliaçãoTecnica01\bin\Debug\net5.0\AvaliaçãoTecnicaExercicio01.deps.json
+D:\Cast group\Exercícios\csharp-basic\AvaliaçãoTecnica01\AvaliaçãoTecnica01\bin\Debug\net5.0\AvaliaçãoTecnicaExercicio01.runtimeconfig.json
+D:\Cast group\Exercícios\csharp-basic\AvaliaçãoTecnica01\AvaliaçãoTecnica01\bin\Debug\net5.0\AvaliaçãoTecnicaExercicio01.runtimeconfig.dev.json
+D:\Cast group\Exercícios\csharp-basic\AvaliaçãoTecnica01\AvaliaçãoTecnica01\bin\Debug\net5.0\AvaliaçãoTecnicaExercicio01.dll
+D:\Cast group\Exercícios\csharp-basic\AvaliaçãoTecnica01\AvaliaçãoTecnica01\bin\Debug\net5.0\AvaliaçãoTecnicaExercicio01.pdb
+D:\Cast group\Exercícios\csharp-basic\AvaliaçãoTecnica01\AvaliaçãoTecnica01\obj\Debug\net5.0\AvaliaçãoTecnicaExercicio01.csproj.AssemblyReference.cache
+D:\Cast group\Exercícios\csharp-basic\AvaliaçãoTecnica01\AvaliaçãoTecnica01\obj\Debug\net5.0\AvaliaçãoTecnicaExercicio01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cast group\Exercícios\csharp-basic\AvaliaçãoTecnica01\AvaliaçãoTecnica01\obj\Debug\net5.0\AvaliaçãoTecnicaExercicio01.AssemblyInfoInputs.cache
+D:\Cast group\Exercícios\csharp-basic\AvaliaçãoTecnica01\AvaliaçãoTecnica01\obj\Debug\net5.0\AvaliaçãoTecnicaExercicio01.AssemblyInfo.cs
+D:\Cast group\Exercícios\csharp-basic\AvaliaçãoTecnica01\AvaliaçãoTecnica01\obj\Debug\net5.0\AvaliaçãoTecnicaExercicio01.csproj.CoreCompileInputs.cache
+D:\Cast group\Exercícios\csharp-basic\AvaliaçãoTecnica01\AvaliaçãoTecnica01\obj\Debug\net5.0\AvaliaçãoTecnicaExercicio01.dll
+D:\Cast group\Exercícios\csharp-basic\AvaliaçãoTecnica01\AvaliaçãoTecnica01\obj\Debug\net5.0\refint\AvaliaçãoTecnicaExercicio01.dll
+D:\Cast group\Exercícios\csharp-basic\AvaliaçãoTecnica01\AvaliaçãoTecnica01\obj\Debug\net5.0\AvaliaçãoTecnicaExercicio01.pdb
+D:\Cast group\Exercícios\csharp-basic\AvaliaçãoTecnica01\AvaliaçãoTecnica01\obj\Debug\net5.0\AvaliaçãoTecnicaExercicio01.genruntimeconfig.cache
+D:\Cast group\Exercícios\csharp-basic\AvaliaçãoTecnica01\AvaliaçãoTecnica01\obj\Debug\net5.0\ref\AvaliaçãoTecnicaExercicio01.dll

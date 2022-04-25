@@ -1,0 +1,16 @@
+D:\Cast group\Exercícios\csharp-basic\Aulas\Aula53Exercicio01\bin\Debug\net5.0\Aula53Exercicio01.exe
+D:\Cast group\Exercícios\csharp-basic\Aulas\Aula53Exercicio01\bin\Debug\net5.0\Aula53Exercicio01.deps.json
+D:\Cast group\Exercícios\csharp-basic\Aulas\Aula53Exercicio01\bin\Debug\net5.0\Aula53Exercicio01.runtimeconfig.json
+D:\Cast group\Exercícios\csharp-basic\Aulas\Aula53Exercicio01\bin\Debug\net5.0\Aula53Exercicio01.runtimeconfig.dev.json
+D:\Cast group\Exercícios\csharp-basic\Aulas\Aula53Exercicio01\bin\Debug\net5.0\Aula53Exercicio01.dll
+D:\Cast group\Exercícios\csharp-basic\Aulas\Aula53Exercicio01\bin\Debug\net5.0\Aula53Exercicio01.pdb
+D:\Cast group\Exercícios\csharp-basic\Aulas\Aula53Exercicio01\obj\Debug\net5.0\Aula53Exercicio01.csproj.AssemblyReference.cache
+D:\Cast group\Exercícios\csharp-basic\Aulas\Aula53Exercicio01\obj\Debug\net5.0\Aula53Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cast group\Exercícios\csharp-basic\Aulas\Aula53Exercicio01\obj\Debug\net5.0\Aula53Exercicio01.AssemblyInfoInputs.cache
+D:\Cast group\Exercícios\csharp-basic\Aulas\Aula53Exercicio01\obj\Debug\net5.0\Aula53Exercicio01.AssemblyInfo.cs
+D:\Cast group\Exercícios\csharp-basic\Aulas\Aula53Exercicio01\obj\Debug\net5.0\Aula53Exercicio01.csproj.CoreCompileInputs.cache
+D:\Cast group\Exercícios\csharp-basic\Aulas\Aula53Exercicio01\obj\Debug\net5.0\Aula53Exercicio01.dll
+D:\Cast group\Exercícios\csharp-basic\Aulas\Aula53Exercicio01\obj\Debug\net5.0\refint\Aula53Exercicio01.dll
+D:\Cast group\Exercícios\csharp-basic\Aulas\Aula53Exercicio01\obj\Debug\net5.0\Aula53Exercicio01.pdb
+D:\Cast group\Exercícios\csharp-basic\Aulas\Aula53Exercicio01\obj\Debug\net5.0\Aula53Exercicio01.genruntimeconfig.cache
+D:\Cast group\Exercícios\csharp-basic\Aulas\Aula53Exercicio01\obj\Debug\net5.0\ref\Aula53Exercicio01.dll
